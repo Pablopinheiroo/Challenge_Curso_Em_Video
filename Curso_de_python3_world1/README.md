@@ -1,4 +1,4 @@
-# Aqui serão apresentado 35 Desafios administrado pelo professor guanabara propostos no Mundo 1 de Python 3
+# Aqui serão apresentado a resolução de 35 Desafios administrado pelo professor guanabara propostos no Mundo 1 de Python 3
 ## Exercícios:
 
 ### -> ex001 - Deixando tudo pronto <br/>
