@@ -1,4 +1,4 @@
-# Aqui serão apresentado a resolução de 35 Desafios administrado pelo professor guanabara propostos no Mundo 1 de Python 3
+# 35 Desafios Propostos através do Pr. Guanabara. Do Nível Fácil, médio ao avançado.
 ## Exercícios:
 
 ### -> ex001 - Deixando tudo pronto <br/>
