@@ -1,4 +1,4 @@
-# 35 Desafios Propostos através do Pr. Guanabara. Do Nível Fácil, médio ao avançado.
+# 35 Desafios propostos pelo Pr. Guanabara, nível: "Fácil,  Médio e Avançado"
 ## Exercícios:
 
 ### -> ex001 - Deixando tudo pronto <br/>
