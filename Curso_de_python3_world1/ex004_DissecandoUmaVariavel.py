@@ -2,9 +2,12 @@
 Faça um programa que leia algo pelo teclado e mostre na tela o
 seu tipo primitivo e todas as informações possíveis sobre ele."""
 
-print('-'*50)
-print('Para obter seu tipo primitivo e outras informações')
-print('-'*50)
+msg = 'Para obter seu tipo primitivo e outras informações'
+m = len(msg)
+print('-'*m)
+print('{}'.format(msg))
+print('-'*m)
+
 tipo = input('Digite algo a seguir: ')
 print('O tipo primitivo dese valor é: ', type(tipo))
 print('Só tem espaços? ', tipo.isspace())
