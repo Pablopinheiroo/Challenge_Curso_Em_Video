@@ -1,7 +1,7 @@
 # 35 Desafios propostos pelo Pr. Guanabara, nível: "Fácil,  Médio e Avançado"
 ## Exercícios:
 
-### -> ex001 - DeixandoCurso_de_python3_world1 tudo pronto <br/>
+### -> ex001 - Deixando tudo pronto <br/>
 Crie um script que escreva "Olá, Mundo!" na tela. <br/>
 
 ### -> ex002 - Respondendo ao Usuário <br/>
@@ -61,3 +61,10 @@ Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno,
 ### -> ex019 - Sorteando um item na lista <br/>
 Um professor quer sortear um dos seus quatro alunos para apagar o quadro.<br/>
 Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido. <br/>
+
+### -> ex020 - Sorteando um item na lista <br/>
+O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos.<br/>
+Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada. <br/>
+
+### -> ex021 - Sorteando um item na lista <br/>
+Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
