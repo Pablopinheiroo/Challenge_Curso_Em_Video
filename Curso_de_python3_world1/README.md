@@ -1,7 +1,7 @@
 # 35 Desafios propostos pelo Pr. Guanabara, nível: "Fácil,  Médio e Avançado"
 ## Exercícios:
 
-### -> ex001 - Deixando tudo pronto <br/>
+### -> ex001 - DeixandoCurso_de_python3_world1 tudo pronto <br/>
 Crie um script que escreva "Olá, Mundo!" na tela. <br/>
 
 ### -> ex002 - Respondendo ao Usuário <br/>
@@ -46,3 +46,18 @@ Escreva um programa que converta uma temperatura digitando em graus Celsius e co
 ### -> ex015 - Aluguel de Carros <br/>
 Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos
 quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado. <br/>
+
+### -> ex016 - Quebrando um Número <br/>
+Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.<br/>
+Ex: Digite um número: 6.127 --> O número 6.127 tem a parte Inteira 6. <br/>
+
+### -> ex017 - Catetos e Hipotenusa <br/>
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo.<br/>
+Calcule e mostre o comprimento da hipotenusa. <br/>
+
+### -> ex018 - Seno, Cosseno e Tangente <br/>
+Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo. <br/>
+
+### -> ex019 - Sorteando um item na lista <br/>
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro.<br/>
+Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido. <br/>
