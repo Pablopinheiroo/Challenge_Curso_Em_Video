@@ -42,3 +42,7 @@ Faça um algoritmo que leia o salário de um funcionário e mostre seu novo sal�
 
 ### -> ex014 - Conversor de Temperaturas <br/>
 Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit. <br/>
+
+### -> ex015 - Aluguel de Carros <br/>
+Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos
+quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado. <br/>
