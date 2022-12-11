@@ -39,3 +39,6 @@ Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com
 
 ### -> ex013 - Reajuste Salarial <br/>
 Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento. <br/>
+
+### -> ex014 - Conversor de Temperaturas <br/>
+Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit. <br/>
