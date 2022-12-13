@@ -17,7 +17,6 @@ c = num // 100 % 10
 m = num // 1000 % 10
 
 print('Analisando o número {}'.format(num))
-
 sleep(1)
 
 print('Unidade: {}'.format(u))
