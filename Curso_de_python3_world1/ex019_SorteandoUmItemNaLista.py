@@ -4,7 +4,7 @@ Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o 
 
 from random import choice
 
-msg = 'Sorteio: um Dentre Quatro'
+msg = ' Sorteio: um Dentre Quatro '
 m = len(msg)
 print('-' * m)
 print('{}'.format(msg))
