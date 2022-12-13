@@ -15,6 +15,7 @@ print('-' * m)
 nome = str(input('Digite seu nome Completo: ')).strip()
 
 print('Analisando seu nome...')
+
 sleep(1)
 
 print('Seu nome em maiúsculas é {}'.format(nome.upper()))
