@@ -44,27 +44,45 @@ Faça um algoritmo que leia o salário de um funcionário e mostre seu novo sal�
 Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit. <br/>
 
 ### -> ex015 - Aluguel de Carros <br/>
-Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos
-quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado. <br/>
+Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado. <br/>
 
 ### -> ex016 - Quebrando um Número <br/>
 Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.<br/>
 Ex: Digite um número: 6.127 --> O número 6.127 tem a parte Inteira 6. <br/>
 
 ### -> ex017 - Catetos e Hipotenusa <br/>
-Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo.<br/>
-Calcule e mostre o comprimento da hipotenusa. <br/>
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa. <br/>
 
 ### -> ex018 - Seno, Cosseno e Tangente <br/>
 Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo. <br/>
 
 ### -> ex019 - Sorteando um item na lista <br/>
-Um professor quer sortear um dos seus quatro alunos para apagar o quadro.<br/>
-Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido. <br/>
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido. <br/>
 
-### -> ex020 - Sorteando um item na lista <br/>
-O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos.<br/>
-Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada. <br/>
+### -> ex020 - Sorteando uma ordem na lista <br/>
+O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada. <br/>
 
-### -> ex021 - Sorteando um item na lista <br/>
-Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+### -> ex021 - Tocando um MP3 <br/>
+Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3. <br/>
+
+### -> ex022 - Analisador de Textos <br/>
+Crie um programa que leia o nome completo de uma pessoa e mostre: <br/>
+- O nome com todas as letras maiúsculas e minúsculas. <br/>
+- Quantas letras ao todo (sem considerar espaços). <br/>
+- Quantas letras tem o primeiro nome. <br/>
+
+### -> ex023 - Separando dígitos de um número <br/>
+Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. <br/>
+
+### -> ex024 - Verificando as primeiras letras de um texto <br/>
+Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO". <br/>
+
+### -> ex025 - Procurando uma string dentro de outra <br/>
+Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome. <br/>
+
+### -> ex026 - Primeira e última ocorrência de uma string <br/>
+Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez. <br/>
+
+### -> ex027 - Primeiro e último nome de uma pessoa <br/>
+Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. <br/>
+Ex: Ana Maria de Souza (primeiro = Ana; último = Souza. <br/>
