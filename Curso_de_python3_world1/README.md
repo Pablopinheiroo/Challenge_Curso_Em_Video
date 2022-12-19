@@ -1,4 +1,4 @@
-# 35 Desafios propostos pelo Pr. Guanabara, nível: "Fácil,  Médio e Avançado"
+# 35 Desafios propostos pelo Pr. Guanabara:
 ## Exercícios:
 
 ### -> ex001 - Deixando tudo pronto <br/>
@@ -81,8 +81,37 @@ Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o
 Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome. <br/>
 
 ### -> ex026 - Primeira e última ocorrência de uma string <br/>
-Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez. <br/>
+Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", <br/>
+em que posição ela aparece a primeira vez e em que posição ela aparece a última vez. <br/>
 
 ### -> ex027 - Primeiro e último nome de uma pessoa <br/>
 Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. <br/>
-Ex: Ana Maria de Souza (primeiro = Ana; último = Souza. <br/>
+Ex: Ana Maria de Souza (primeiro = Ana; último = Souza). <br/>
+
+### -> ex028 - Jogo da Adivinhação v.1.0 <br/>
+Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça
+para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu. <br/>
+
+### -> ex029 - Radar eletrônico <br/>
+Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h,
+mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite. <br/>
+
+### -> ex030 - Par ou Ímpar? <br/>
+Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR. <br/>
+
+### -> ex031 - Custo da Viagem <br/>
+Desenvolva um programa que pergunte a distância de uma viagem em Km. <br/>
+Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas. <br/>
+
+### -> ex032 - Ano Bissexto <br/>
+Faça um programa que leia um ano qualquer e mostre se ele é bissexto. <br/>
+
+### -> ex033 - Maior e menor valores <br/>
+Faça um programa que leia três números e mostre qual é o maior e qual é o menor. <br/>
+
+### -> ex034 - Aumentos múltiplos <br/>
+Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento.
+Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15% <br/>
+
+### -> ex035 - Analisando Triângulo v1.0 <br/>
+Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo. <br/>
