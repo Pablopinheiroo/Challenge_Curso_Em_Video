@@ -8,7 +8,7 @@ mostre seu status, de acordo com a tabela abaixo:
 - Acima de 40: Obesidade Mórbida
 """
 
-msg = '        Avaliando seu IMC       '
+msg = '        Avaliação de IMC        '
 m = len(msg)
 print('\033[32m' + ('-' * m))
 print('{}'.format(msg))
@@ -30,5 +30,5 @@ elif imc < 40:
 else:
     msg = 'com Obesidade mórbida'
 
-print('O IMC dessa pessoa é de {:.1f}'.format(imc))
+print('O IMC dessa pessoa é de {:.1f}kg/m2'.format(imc))
 print('Você está', msg)
