@@ -15,4 +15,5 @@ for impares in range(3, 501, 3):
     if impares % 2 == 1:
         valores += 1
         soma += impares
+        
 print(f'A soma de todos os {valores} valores solicitados é {soma}')
