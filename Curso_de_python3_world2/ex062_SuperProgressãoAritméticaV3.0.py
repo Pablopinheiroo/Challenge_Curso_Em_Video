@@ -3,7 +3,6 @@ Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais algu
 O programa encerrará quando ele disser que quer mostrar 0 termos.
 """
 
-
 msg = '             Gerador de PA            '
 m = len(msg)
 print('\033[32m' + ('-' * m))
